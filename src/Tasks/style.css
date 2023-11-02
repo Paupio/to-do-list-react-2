@@ -23,16 +23,17 @@
     height: 30px;
     padding: 0;
     border: none;
-    cursor: pointer;
     transition: 0.5s;
 }
 
 .task__button--done {
     background-color: green;
+    cursor: pointer;
 }
 
 .task__button--done:hover {
     background-color: rgb(55, 161, 23);
+    cursor: pointer;
 }
 
 .task__button--remove {
