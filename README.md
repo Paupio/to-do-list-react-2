@@ -1,8 +1,23 @@
 # TO-DO LIST-REACT
 
-Description
+## Description:
+   This is a simple to-do list-react.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+   This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Demo: 
+   https://paupio.github.io/to-do-list-react-2/
+
+   ![image](https://github.com/Paupio/to-do-list-react-2/blob/main/public/screen.png)
+
+## Technologies:
+- BEM
+- CSS
+- Grid
+- Flex
+- HTML
+- JavaScript
+- React
 
 ## Available Scripts
 
