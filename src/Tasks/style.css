@@ -28,7 +28,6 @@
 
 .task__button--done {
     background-color: green;
-    cursor: pointer;
 }
 
 .task__button--done:hover {
