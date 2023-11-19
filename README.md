@@ -8,7 +8,7 @@
 ## Demo: 
    https://paupio.github.io/to-do-list-react-2/
 
-   ![image](https://github.com/Paupio/to-do-list-react-2/blob/main/public/screen.png)
+   ![image](https://github.com/Paupio/to-do-list-react-2/blob/main/public/screen2.png)
 
 ## Technologies:
 - BEM
