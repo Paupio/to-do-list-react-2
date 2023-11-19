@@ -1,5 +1,6 @@
 html {
   box-sizing: border-box;
+  background-color: hsl(0, 0%, 95%);
 }
 
 *,
@@ -11,4 +12,5 @@ html {
 .body {
   background: #eee;
   font-family: 'Poppins', sans-serif;
+  background-color: hsl(0, 0%, 95%);
 }
