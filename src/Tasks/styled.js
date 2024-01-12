@@ -42,7 +42,7 @@ export const Button = styled.button`
         }
     `}
 
-    ${({remove}) => remove && css`
+    ${({ remove }) => remove && css`
         background-color: red;
 
         &:hover {

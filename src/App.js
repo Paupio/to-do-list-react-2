@@ -13,8 +13,8 @@ function App() {
 
   const [tasks, setTasks] = useState(
     tasksFromLocalStorage
-   ? JSON.parse(tasksFromLocalStorage)
-   : []
+      ? JSON.parse(tasksFromLocalStorage)
+      : []
   );
 
   useEffect(() => {
