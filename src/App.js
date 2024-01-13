@@ -15,7 +15,7 @@ function App() {
     setHideDone(hideDone => !hideDone);
   };
 
- const {
+  const {
     tasks,
     removeTask,
     toggleTaskDone,
