@@ -13,7 +13,6 @@ const Buttons = ({ tasks, hideDone, toggleHideDone, setAllDone }) => (
             </StyledButtons>
         </Button>
     )
-
 );
 
 export default Buttons;
