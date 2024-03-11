@@ -18,6 +18,7 @@
 - HTML
 - JavaScript
 - React
+- Redux
 
 ## Available Scripts
 
