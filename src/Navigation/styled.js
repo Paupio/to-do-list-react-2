@@ -7,8 +7,10 @@ export const List = styled.ul`
     list-style: none;
     display: flex;
     justify-content: center;
-    padding: 0px;
-    margin: 0;
+    height: 50px;
+    gap: 30px;
+    padding: 15px;
+    margin-top: 0;
 `;
 
 export const StyledNavLink = styled(NavLink)`
