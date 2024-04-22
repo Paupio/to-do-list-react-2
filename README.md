@@ -8,7 +8,7 @@
 ## Demo: 
    https://paupio.github.io/to-do-list-react-2/
 
-   ![image](https://github.com/Paupio/to-do-list-react-2/blob/main/public/screen.png)
+   ![image](https://github.com/Paupio/to-do-list-react-2/blob/main/images/lista.png)
 
 ## Technologies:
 - BEM
@@ -19,6 +19,8 @@
 - JavaScript
 - React
 - Redux
+- Redux Saga
+- Redux Router
 
 ## Available Scripts
 
