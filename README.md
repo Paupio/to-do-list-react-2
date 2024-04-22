@@ -1,8 +1,8 @@
 # TO-DO LIST-REACT
 
 ## Description:
-   This is a simple to-do list-react for recording various activities and also crossing them off and deleting them after completing them.
-
+   This is a simple task list for adding new tasks, downloading sample tasks and filtering tasks.
+   
    This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo: 
