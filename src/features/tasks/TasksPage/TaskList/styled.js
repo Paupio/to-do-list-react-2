@@ -4,6 +4,10 @@ export const TasksList = styled.ul`
     padding: 30px 10px;
     margin: auto;
     list-style: none;
+
+    @media (max-width: ${({ theme }) => theme.breakpoints.mobile}px) {
+    padding: 0 3px;
+  }
 `;
 
 export const Item = styled.li`
