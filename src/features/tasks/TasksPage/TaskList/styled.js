@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import styled, { css } from "styled-components";
 
 export const TasksList = styled.ul`
@@ -54,4 +55,11 @@ export const Button = styled.button`
             cursor: pointer;
         }
     `}
+
+`;
+
+export const TaskLink = styled(Link)`
+  text-decoration: none;
+  color: black;
+
 `;
